@@ -1,4 +1,4 @@
-# python
+# program to count sum of all digit in the number
 name=input("enter num you wanna see the sum of:  ")
 total=0
 count=len(name)
